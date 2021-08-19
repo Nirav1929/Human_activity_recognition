@@ -5,6 +5,6 @@ After sampling the training dataset as mentioned in section III-B, we perform un
 
 ## Model
 
-![alt text](https://user-images.githubusercontent.com/11133468/130084788-f8249339-4033-4fc9-a712-ed447afec0c1.png")
+![alt text](https://user-images.githubusercontent.com/11133468/130084788-f8249339-4033-4fc9-a712-ed447afec0c1.png)
 
  
