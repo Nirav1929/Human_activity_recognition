@@ -3,5 +3,8 @@ We propose a CNN LSTM architec- ture to predict human activity based on the data
 After sampling the training dataset as mentioned in section III-B, we perform undersampling as mentioned in III-D to counter class imbalance. The input sequence is fed to cnn to learn characteristic features of the time-series data. These extracted features are later fed into LSTM model to map the internal representation of time series data to activity type. Below figure summarizes our final model.
 
 
+## Model
+
+https://user-images.githubusercontent.com/11133468/130084788-f8249339-4033-4fc9-a712-ed447afec0c1.png"
 
  
